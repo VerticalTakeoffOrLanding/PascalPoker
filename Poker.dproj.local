@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2018/12/03 09:20:15.000.988,=C:\Users\ellis\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/03/29 10:57:15.000.631,C:\Users\ellis\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\ellis\Desktop\Computing\DelphiProjects\Poker\Poker.dproj</Transaction>
+    <Transaction>2019/03/29 10:59:35.000.569,=C:\Users\ellis\Desktop\Computing\DelphiProjects\Poker\BlackJackUnit.pas</Transaction>
+    <Transaction>2019/04/03 13:58:37.000.263,=C:\Users\ellis\Desktop\Computing\DelphiProjects\Poker\BlackJackUnit.pas</Transaction>
+    <Transaction>2019/04/03 13:58:49.000.767,C:\Users\ellis\Desktop\Computing\DelphiProjects\Poker\BlackJackUnit.pas=</Transaction>
+    <Transaction>2019/04/03 14:00:56.000.638,=C:\Users\ellis\Desktop\Computing\DelphiProjects\Poker\BlackJackUnit.pas</Transaction>
+    <Transaction>2019/04/03 14:14:20.000.861,C:\Users\ellis\Desktop\Computing\DelphiProjects\Poker\BlackJackUnit.pas=</Transaction>
+    <Transaction>2019/04/03 14:15:30.000.265,=C:\Users\ellis\Desktop\Computing\DelphiProjects\Poker\UCardPackHand.pas</Transaction>
+    <Transaction>2019/04/22 11:24:15.000.711,=C:\Users\ellis\Desktop\Computing\DelphiProjects\Poker\Unit1.pas</Transaction>
+    <Transaction>2019/04/22 14:30:08.000.452,C:\Users\ellis\Desktop\Computing\DelphiProjects\Poker\Unit1.pas=C:\Users\ellis\Desktop\Computing\DelphiProjects\Poker\PokerGame.pas</Transaction>
+  </Transactions>
+</BorlandProject>
